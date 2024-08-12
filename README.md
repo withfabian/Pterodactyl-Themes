@@ -1,5 +1,10 @@
 # PTERODACTYL THEMES 2024
 
+
+## MASIH DALAM TAHAP PENGEMBANGAN
+Harap Ditunggu Installer nya Yang Akan Saya Buat Kemudian Hari
+
+
 Berikut Adalah Tema Yang Saya Rangkum Dengan Update Terbaru 2024 Gratis
 Hanya Dengan 1 Command Saja Anda Sudah Dapat Menginstall Thema Tanpa Ada Error
 
