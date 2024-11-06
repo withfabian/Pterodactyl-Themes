@@ -1,7 +1,6 @@
-# PTERODACTYL THEMES 2024
+# PTERODACTYL THEMES
 
 
-## MASIH DALAM TAHAP PENGEMBANGAN
 Harap Ditunggu Installer nya Yang Akan Saya Buat Kemudian Hari
 
 
